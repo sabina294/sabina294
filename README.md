@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Celloscope Limited](https://celloscope.net/)
 
-- 🌱 I’m currently learning **Cypress,Python**
+- 🌱 I’m currently learning **JavaScript,Python**
 
 - 📫 How to reach me **sabina.yeasmin.9701@gmail.com**
 
